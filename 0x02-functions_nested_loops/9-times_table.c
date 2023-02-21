@@ -6,7 +6,6 @@
  */
 int main(void)
 {
-	print_times_table();
-
+	times_table();
 	return (0);
 }
